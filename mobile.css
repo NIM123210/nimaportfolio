@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+    nav ul li {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+    .container {
+        width: 90%;
+        padding: 20px;
+    }
+}
